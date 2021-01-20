@@ -1,0 +1,19 @@
+ {
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "admin_panel",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "false"
+  },
+
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "admin_panel",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": "false"
+  }
+}
